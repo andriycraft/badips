@@ -1,3 +1,5 @@
+# WARNING: This list may be outdated
+
 145.147.178.94
 54.200.116.49
 9.190.102.34
