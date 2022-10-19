@@ -22,3 +22,4 @@
 /media/wp-includes/wlwmanifest.xml
 //.env
 /wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php
+// # many botters use this url
