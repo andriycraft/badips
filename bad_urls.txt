@@ -1,0 +1,4 @@
+/.env
+/.well_known/
+/wp-content/plugins/ioptimization/IOptimize.php
+/wp-content/plugins/ioptimization/IOptimize.php?rchk
