@@ -2,7 +2,7 @@
 184.178.172.18 # proxy?
 3.239.186.32 # proxy?
 2.56.101.83 # public proxy
-34.226.153.71 # part of botnet
 213.14.174.70 # public proxy
 185.126.65.26 # private proxy
 192.252.209.155 # public proxy
+198.8.94.170 # public proxy
