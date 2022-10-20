@@ -5,3 +5,4 @@
 34.226.153.71 # part of botnet
 213.14.174.70 # public proxy
 185.126.65.26 # private proxy
+192.252.209.155 # public proxy
